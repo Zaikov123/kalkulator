@@ -1,0 +1,17 @@
+D:\sisya\praktika\bin\Debug\net7.0-windows\praktika.exe
+D:\sisya\praktika\bin\Debug\net7.0-windows\praktika.deps.json
+D:\sisya\praktika\bin\Debug\net7.0-windows\praktika.runtimeconfig.json
+D:\sisya\praktika\bin\Debug\net7.0-windows\praktika.dll
+D:\sisya\praktika\bin\Debug\net7.0-windows\praktika.pdb
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.csproj.AssemblyReference.cache
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.Form1.resources
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.csproj.GenerateResource.cache
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.GeneratedMSBuildEditorConfig.editorconfig
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.AssemblyInfoInputs.cache
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.AssemblyInfo.cs
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.csproj.CoreCompileInputs.cache
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.dll
+D:\sisya\praktika\obj\Debug\net7.0-windows\refint\praktika.dll
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.pdb
+D:\sisya\praktika\obj\Debug\net7.0-windows\praktika.genruntimeconfig.cache
+D:\sisya\praktika\obj\Debug\net7.0-windows\ref\praktika.dll
